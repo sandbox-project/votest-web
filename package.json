@@ -3,9 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "4.0.0-alpha.6",
+    "chart.js": "^2.7.1",
+    "font-awesome": "^4.7.0",
+    "prop-types": "^15.6.0",
     "react": "^16.2.0",
+    "react-chartjs-2": "^2.7.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.1.1"
+    "react-particles-js": "^2.1.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "react-typed": "^1.0.8",
+    "reactstrap": "^5.0.0-beta",
+    "socket.io": "^2.0.4",
+    "socket.io-client": "^2.0.4"
   },
   "scripts": {
     "start": "react-scripts start",
