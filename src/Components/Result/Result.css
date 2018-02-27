@@ -1,0 +1,11 @@
+
+.ResultContent {
+  display: flex;
+  justify-content: center;
+  /*background: #eee;*/
+}
+
+.ResultButtonsRender {
+  margin: 10px;
+
+}
