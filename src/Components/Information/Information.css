@@ -1,0 +1,41 @@
+.Information {
+  margin-top: 30%;
+  padding: 20px;
+  width: 100%;
+  background: #FFFFFF;
+  position: relative;
+  border-radius: 5px;
+  box-shadow: 0 6px 8px rgba(102,119,136,.03), 0 1px 2px rgba(102,119,136,.3);
+}
+
+
+.Title {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+
+.Title > h1 {
+  color: #111;
+  font-size: 49px;
+}
+
+
+.Subtitle {
+  display: flex;
+  justify-content: center;
+  color: #678;
+  font-size: 20px;
+  padding: 10px 0;
+}
+
+.Buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 20px 0;
+}
+
+.ButtonsMargin {
+  margin: 20px;
+}
