@@ -1,0 +1,9 @@
+.Admin {
+  width: 100vw;
+  height: 100vh;
+  /*padding: 25px;*/
+  /*background: #F1F3F5;*/
+  font-family: sans-serif;
+  overflow: auto;
+  /*background: #444444;*/
+}
